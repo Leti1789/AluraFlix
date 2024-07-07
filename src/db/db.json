@@ -1,0 +1,97 @@
+{
+  "videos": [
+      {
+      "id": 1,
+      "titulo": "cuando usar let,var y const",
+      "linkVideo": "https://www.youtube.com/embed/PztCEdIJITY?si=V3GvDySMgZgMD4-I",
+      "linkImagenVideo": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
+      "Categoria": "FRONT END",
+      "descripcion": "In the modern design world, Lorem Ipsum is the industry standard when placing dummy text onto an unfinished page, whether it's a newspaper, magazine, or advertisement. The Latin text was first used in the 16th century, when a printer scrambled a row of type (known as a "
+
+    },
+    {
+      "id": 2,
+      "titulo": "¿Que es javascript?",
+      "linkVideo": "https://www.youtube.com/embed/GJfOSoaXk4s?si=t6_0I0yBSLFW69pd",
+      "linkImagenVideo": "https://i.ytimg.com/vi/GJfOSoaXk4s/mqdefault.jpg",
+      "Categoria": "FRONT END",
+      "decripcion": ""
+    },
+    {
+      "id": 3,
+      "titulo": "¿Que son las softs skills?",
+      "linkVideo": "https://www.youtube.com/embed/vhwspfvI52k?si=DCbxCZriIaB_rvTF",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685480826/m4ja6ibudvhstw50uglm.jpg",
+      "Categoria": "INNOVACION Y GESTION",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+    },
+    {
+      "id": 4,
+      "titulo": "Spring Framework ¿Qué es? ",
+      "linkVideo": "https://www.youtube.com/embed/t-iqt1b2qqk?si=HMBzaNkxn7DzNfwp",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685481249/jqbckgtqqpcyqwjwg6au.jpg",
+      "Categoria": "BACK END",
+      "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.\n¿Quieres saber más?\n"
+    },
+    {
+      "id": 5,
+      "titulo": "Empresas que aprenden",
+      "linkVideo": "https://www.youtube.com/embed/mwNfWRsDDWE?si=tj-cxGdjBhyhIMas",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685579843/mxcvksyyqrdo5jdwrmxt.png",
+      "Categoria": "INNOVACION Y GESTION",
+      "descripcion": "**El aprendizaje organizacional promueve tanto la adaptación al cambio como el crecimiento de la empresa**. Pero, ¿tienes alguna idea de cómo hacerse esto? En este Alura+, Priscila Stuani habla sobre el papel de la organización en el proceso de aprendizaje de sus profesionales.\n\nLas organizaciones tienen responsabilidades en el proceso de aprendizaje de sus colaboradores. Una de las formas de actuar en este sentido es potenciar algunas habilidades, como el pensamiento sistémico, el dominio personal, trabajar modelos mentales, construir una visión compartida, aprender en equipo y reconocer los patrones de interacción que dificultan este aprendizaje, además de componentes de tecnologías estimulantes."
+    },
+    {
+      "id": 6,
+      "titulo": "7 Soft Skills más deseadas por las empresas",
+      "linkVideo": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=b518ckKRW5F28lQV",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685580828/hze70ejhyfzdw74k8tk8.jpg",
+      "Categoria": "INNOVACION Y GESTION",
+      "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.\n\n¿Quieres saber más?\n\nVe nuestros cursos de Innovación y Gestión:\nhttps://www.aluracursos.com/cursos-on...\n\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile"
+    },
+    {
+      "id": 7,
+      "titulo": "Simplificando tu código en Java: Conoce los enum ",
+      "linkVideo": "https://www.youtube.com/embed/EoPvlE85XAQ?si=YW-R7r7v1oVnDkHe",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685658721/cepyl3vngtaxjxvlnwdb.png",
+      "Categoria": "BACK END",
+      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? \nEn este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.\n\n¿Te gustaría aprender Java desde 0 en nuestra plataforma? Da click aqui - https://www.aluracursos.com/formacion...\nConoce más detalles sobre los tipos de datos enum visitando la documentación oficial - https://docs.oracle.com/javase/tutori..."
+    },
+    {
+      "id": 8,
+      "titulo": "Machine Learning",
+      "linkVideo": "https://www.youtube.com/embed/edS0Fhg0xyM?si=GGJOEKvypSEBfCsR",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685666160/cjwwusmvygsviiunkg8i.png",
+      "Categoria": "BACK END",
+      "descripcion": "Ve nuestros cursos de Machine Learning\nhttps://www.aluracursos.com/cursos-on...\nEncuentra variados artículos sobre tecnologia en nuestro blog: https://www.aluracursos.com/blog/\n\n¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile\n\nProducción audiovisual: Henrique Balleiras\n"
+    },
+    {
+      "id": 9,
+      "titulo": "Equipo Front End",
+      "linkVideo": "https://www.youtube.com/embed/rpvrLaBQwgg?si=te4UxzzOGj1SLMFa",
+      "linkImagenVideo": "https://res.cloudinary.com/dkj7iqhfy/image/upload/v1685821856/q58g3swdjnxv30u3jkux.png",
+      "Categoria": "FRONT END",
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoriaNombre": "FRONT END",
+      "categoriaTexto": "Formacion Front End Alura Latam",
+      "categoriaColor": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "categoriaNombre": "BACK END",
+      "categoriaTexto": "Formacion Back End de Alura Latam",
+      "categoriaColor": "#00C86F"
+    },
+    {
+      "id": 3,
+      "categoriaNombre": "INNOVACION Y GESTION",
+      "categoriaTexto": "Innovacion y Gestion",
+      "categoriaColor": "#FFBA05"
+    }
+  ]
+}

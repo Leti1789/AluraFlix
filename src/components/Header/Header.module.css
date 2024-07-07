@@ -1,0 +1,45 @@
+.container{
+  display: flex;
+  background-color: #0b0b0b;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.1em 10em;
+  border-bottom:2px solid #2A7AE4;
+}
+
+.logoContainer{
+    /* height: 40px; */
+    display: flex;
+    align-items: center;
+}
+
+.container img{
+  align-self: start;
+}
+
+.navBar{
+    font-size: 18px;
+    font-weight:400 ;
+}
+
+.navBar button{
+  margin: 0px 25px;
+  padding: 10px;
+  font-family: var(--font);
+  font-weight: 600;
+  font-size: 1em;
+  border-radius: 10px;
+  border-color: #FFF;
+  color: #FFF;
+  background-color: #0b0b0b;
+  cursor: pointer;
+}
+
+button:hover{
+  border-color:  var(--blue);
+  color: var(--blue);
+  background-color: #000;
+}
+
+
+

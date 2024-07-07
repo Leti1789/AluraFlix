@@ -1,0 +1,17 @@
+.containerFooter{
+    background-color: #000000;
+    font-size: 32px;
+    color: white;
+    height: 15vh;
+    display:flex;
+    align-items: top;
+    justify-content:center;
+    min-width:320px;
+    border-top: 2px solid #2A7AE4;
+    padding-top:1rem;
+}
+
+.LogoImagen{
+  height:3rem;
+  margin-left:2%;
+}

@@ -1,0 +1,32 @@
+.containerSection{
+  width: 100%;
+  background-color: #262626;
+  padding: 40px;
+  text-align: center;
+  min-height: 33vh;
+}
+
+.TitleSection{
+  color:white;
+  height:3rem; 
+  width:15rem;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-weight: 500;
+  border-radius: 0.5em;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.containerVideo{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+flex-wrap: wrap;
+background-color: #262626;
+padding: 40px;
+margin: 20px 20px;
+gap: 15px;
+width: 100%;
+}

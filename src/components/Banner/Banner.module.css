@@ -1,0 +1,143 @@
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 85vh;
+  min-width: 320px;
+}
+
+.containerBannerImage {
+  background-image: url("../../assets/img/Banner.png");
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 85vh;
+}
+
+.bannerContent {
+  position: absolute;
+  height: 35vh;
+  top: 35vh;
+  width: 96%;
+  left: 2%;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+}
+
+.titulo {
+  background-color: #2A7AE4;
+  color: white;
+  height: 6rem;
+  width: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font);
+  font-size: 3rem;
+  font-weight: 600;
+  border-radius: 0.9em;
+}
+
+.subtitulo {
+  color: white;
+  font-size: 2.5rem;
+  margin-top: 1.5rem;
+}
+
+.textBanner {
+  color: white;
+  margin-top: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: light;
+  font-size: 1.2rem;
+}
+
+.bannerCard {
+  max-height: 100%;
+  border: 5px solid #2A7AE4;
+}
+
+@media (max-width: 1680px) {
+  .bannerContent {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 5rem;
+  }
+
+  .bannerTextContent {
+    max-width: 100%;
+  }
+
+  .titulo {
+  font-size: 1rem;
+  height: 3rem;
+  width: 10rem;
+  }
+
+  .subtitulo {
+    font-size: 2rem;
+  }
+
+  .textBanner {
+    font-size: 0.9rem;
+  }
+
+  .bannerCard {
+    max-width: 90%;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    object-fit: contain;
+  }
+} 
+
+
+
+
+  @media (max-width: 1024px) {
+  .container {
+    height: 70vh;
+  }
+
+  .containerBannerImage {
+    height: 70vh;
+  }
+
+  .bannerContent {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 5rem;
+  }
+
+  .titulo {
+    font-size: 1.2rem;
+  }
+
+  .subtitulo {
+    font-size: 1rem;
+  }
+
+  .textBanner {
+    font-size: 0.8rem;
+  }
+
+  .bannerCard {
+    max-width: 90%;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    object-fit: contain;
+  }
+}
+
+
+
+
+
+
+
+
+
+

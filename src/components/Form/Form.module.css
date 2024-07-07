@@ -1,0 +1,304 @@
+/* 
+
+.containerPrincipal {
+  min-width: 100vw;
+  min-height: 80vh;
+  padding: 20px;
+  background: var(--gray); 
+}
+
+.containerTexto {
+  margin-bottom: 20px;
+}
+
+.containerTexto h1, .containerTexto h3 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.containerTexto h1 {
+  font-size: 2rem;
+  color: #FFF;
+}
+
+.containerTexto h3 {
+  font-size: 1.2rem;
+  color: #FFF;
+}
+
+.titulo{
+  display: flex;
+  height: 25px;
+  width: 90%;
+  padding: 25px;
+  margin-top: 25px;
+  padding-left: 50px;
+  border-top: 1px solid #666666;
+  border-bottom: 1px solid #666666;
+  justify-content:space-between;
+  align-items: center;
+  background-color: var(--gray);
+}
+
+.titulo h2 {
+  font-size: 1.7rem;
+  color: #FFF;
+  font-weight: 600;
+  margin-left: 150px;
+}
+
+.formContainer {
+  max-width: 75vw;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.column {
+  width: 48%;
+}
+
+.formContainer label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #FFF;
+}
+
+.formContainer input,
+.formContainer select,
+.formContainer textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #555;
+  border-radius: 4px;
+  background: #333;
+  color: #FFF;
+  font-size: 1rem;
+}
+
+.formContainer textarea {
+  resize: none;
+  height: 100px;
+  width: 50%
+}
+
+.inputError {
+  border: 1px solid red;
+  border-radius: 4px;
+}
+
+.containerBotones {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+.buttonGuardar {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  border-color: #0056b3;
+  border-radius: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.buttonGuardar:hover {
+  background-color: #004494;
+  color: #FFF;
+}
+
+.buttonGuardar:disabled {
+  background-color: #999;
+  color: #666;
+  cursor: not-allowed;
+}
+
+.buttonLimpiar {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: transparent;
+  border-color: #0056b3;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.buttonLimpiar:hover {
+  background-color: #004494;
+  color: #FFF;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.error {
+  color: red;
+} */
+
+
+/* Form.module.css */
+
+.containerPrincipal {
+  min-width: 100vw;
+  min-height: 80vh;
+  padding: 20px;
+  background: var(--gray); 
+}
+
+.containerTexto {
+  margin-bottom: 20px;
+}
+
+.containerTexto h1, .containerTexto h3 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.containerTexto h1 {
+  font-size: 2rem;
+  color: #FFF;
+}
+
+.containerTexto h3 {
+  font-size: 1.2rem;
+  color: #FFF;
+}
+
+.titulo{
+  display: flex;
+  height: 25px;
+  width: 90%;
+  padding: 25px;
+  margin-top: 25px;
+  padding-left: 50px;
+  border-top: 1px solid #666666;
+  border-bottom: 1px solid #666666;
+  justify-content:space-between;
+  align-items: center;
+  background-color: var(--gray);
+}
+
+.titulo h2 {
+  font-size: 1.7rem;
+  color: #FFF;
+  font-weight: 600;
+  margin-left: 150px;
+}
+
+.formContainer {
+  max-width: 75vw;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.column {
+  width: 48%;
+}
+
+.formContainer label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #FFF;
+}
+
+.formContainer input,
+.formContainer select,
+.formContainer textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #0056b3;
+  border-radius: 4px;
+  background: #333;
+  color: #FFF;
+  font-size: 1rem;
+}
+
+.formContainer textarea {
+  resize: none;
+  height: 100px;
+  width: 50%
+}
+
+.formContainer .inputError {
+  border: 3px solid red;
+}
+
+.containerBotones {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 20px;
+  gap: 10px;
+}
+
+.buttonGuardar {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  border-color: #0056b3;
+  border-radius: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.buttonGuardar:hover {
+  background-color: #004494;
+  color: #FFF;
+}
+
+.buttonGuardar:disabled {
+  background-color: #999;
+  color: #666;
+  cursor: not-allowed;
+}
+
+.buttonLimpiar {
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: transparent;
+  border-color: #0056b3;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.buttonLimpiar:hover {
+  background-color: #004494;
+  color: #FFF;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.error {
+  color: red;
+  padding: 10px;
+  text-align: center;
+}
+
+.err{
+  min-height: 2em;
+}
+

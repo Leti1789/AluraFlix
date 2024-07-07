@@ -1,0 +1,16 @@
+:root {
+  --font: "Montserrat", sans-serif;
+  --skyBlue: #6BD1FF;
+  --yellow: #FFBA05;
+  --green: #00C86F;
+  --blue: #2271D1;
+  --gray: #262626;
+
+}
+
+body, *, html {
+  margin: 0;
+  font-family: var(--font);
+  box-sizing: border-box;
+}
+

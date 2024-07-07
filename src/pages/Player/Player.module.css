@@ -1,0 +1,23 @@
+.containerPrincipal{
+  background-color: var(--gray);
+  text-align: center;
+}
+
+.titulo{
+  color: #fff;
+  padding: 20px;
+  font-weight: 600;
+}
+
+.container{
+  display: flex;
+  gap: 1rem;
+  justify-content: space-around;
+  padding: 1rem 7%;
+  background-color: var(--gray);
+}
+
+iframe{
+    height: 70vh;
+    width:95vw;
+}
