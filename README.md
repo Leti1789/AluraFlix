@@ -1,6 +1,6 @@
 # AluraFlix
 
-## Propósito
+## Propósito del proyecto
 
 El propósito de este desafío es brindar la oportunidad de aplicar de manera integral los conceptos aprendidos en los cursos de Alura hasta el momento, permitiéndo consolidar y fortalecer los conocimientos en React, fundamentales para el desarrollo web.
 
